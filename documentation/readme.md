@@ -83,3 +83,8 @@ Se realizaron pruebas unitarias para verificar casos borde:
 * Manejo de errores si el motor Prolog no está instalado.
 
 Esta arquitectura permite que, en el futuro, se puedan modificar las reglas médicas en el archivo Prolog sin necesidad de reescribir el código de la interfaz en Python.
+
+
+
+
+Para la documentación completa acceda a [documentacion](https://docs.google.com/document/d/1QaiHBLIR351EncwgARNw0eUqPfZU3_UvA0K4Vx845y8/edit?usp=sharing)
